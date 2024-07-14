@@ -1,0 +1,22 @@
+/* styles.css */
+
+section {
+    padding: 20px;
+}
+
+#schedule table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+}
+
+#schedule table th, #schedule table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+#schedule table th {
+    background-color: #0077ff; /* Mumbai Indians blue */
+    color: white;
+}

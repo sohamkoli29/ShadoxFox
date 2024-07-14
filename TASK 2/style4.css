@@ -1,0 +1,10 @@
+/* styles.css */
+
+#news article {
+    border-bottom: 1px solid #ddd;
+    padding: 10px 0;
+}
+
+#news article h3 {
+    margin: 0 0 10px 0;
+}

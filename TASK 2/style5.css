@@ -1,0 +1,16 @@
+/* styles.css */
+
+#fan-engagement .poll, #fan-engagement .social-media {
+    margin-bottom: 20px;
+}
+
+#fan-engagement .poll label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+#fan-engagement .social-media a {
+    margin-right: 10px;
+    color: #004ba0; /* Mumbai Indians blue */
+    text-decoration: none;
+}
